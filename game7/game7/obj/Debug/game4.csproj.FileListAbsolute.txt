@@ -1,0 +1,10 @@
+E:\Huw\Programming\CSharp\GameDevelopment\game4\game4\bin\Debug\game1.exe.config
+E:\Huw\Programming\CSharp\GameDevelopment\game4\game4\bin\Debug\game1.exe
+E:\Huw\Programming\CSharp\GameDevelopment\game4\game4\bin\Debug\game1.pdb
+E:\Huw\Programming\CSharp\GameDevelopment\game4\game4\obj\Debug\game4.csprojResolveAssemblyReference.cache
+E:\Huw\Programming\CSharp\GameDevelopment\game4\game4\obj\Debug\game1.Form1.resources
+E:\Huw\Programming\CSharp\GameDevelopment\game4\game4\obj\Debug\game1.Properties.Resources.resources
+E:\Huw\Programming\CSharp\GameDevelopment\game4\game4\obj\Debug\game4.csproj.GenerateResource.cache
+E:\Huw\Programming\CSharp\GameDevelopment\game4\game4\obj\Debug\game4.csproj.CoreCompileInputs.cache
+E:\Huw\Programming\CSharp\GameDevelopment\game4\game4\obj\Debug\game1.exe
+E:\Huw\Programming\CSharp\GameDevelopment\game4\game4\obj\Debug\game1.pdb

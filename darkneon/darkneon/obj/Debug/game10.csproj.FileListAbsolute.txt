@@ -1,0 +1,10 @@
+E:\BitwiseCourses\COURSES\Adventures in C#\Code\game10\game10\bin\Debug\game.exe.config
+E:\BitwiseCourses\COURSES\Adventures in C#\Code\game10\game10\bin\Debug\game.exe
+E:\BitwiseCourses\COURSES\Adventures in C#\Code\game10\game10\bin\Debug\game.pdb
+E:\BitwiseCourses\COURSES\Adventures in C#\Code\game10\game10\obj\Debug\game10.csprojResolveAssemblyReference.cache
+E:\BitwiseCourses\COURSES\Adventures in C#\Code\game10\game10\obj\Debug\game.Form1.resources
+E:\BitwiseCourses\COURSES\Adventures in C#\Code\game10\game10\obj\Debug\game.Properties.Resources.resources
+E:\BitwiseCourses\COURSES\Adventures in C#\Code\game10\game10\obj\Debug\game10.csproj.GenerateResource.cache
+E:\BitwiseCourses\COURSES\Adventures in C#\Code\game10\game10\obj\Debug\game10.csproj.CoreCompileInputs.cache
+E:\BitwiseCourses\COURSES\Adventures in C#\Code\game10\game10\obj\Debug\game.exe
+E:\BitwiseCourses\COURSES\Adventures in C#\Code\game10\game10\obj\Debug\game.pdb
